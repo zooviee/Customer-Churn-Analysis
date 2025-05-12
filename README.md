@@ -16,6 +16,11 @@ This repository contains a comprehensive report that analyzes:
 * Monthly and annual **retention and cohort analysis**
 * Actionable strategies for improving customer retention and growth
 
+
+## 💡 Dashboard
+[🔗 View Dashboard](https://public.tableau.com/app/profile/oluwaseyi.akinsanya/viz/CustomerChurnAnalysis_17436951427130/CustomerChurnStory)
+
+
 ## 📌 Key Insights
 
 * October 2022 revenue was up **45% year-over-year** but down **50% month-over-month**, revealing the impact of seasonality and marketing campaigns.
@@ -48,11 +53,4 @@ This analysis supports strategic decision-making for:
 * **Product improvements**
 * **Customer segmentation**
 
-## 💡 Next Steps
-
-Future work could involve:
-
-* Automating churn detection dashboards
-* Integrating machine learning for churn prediction
-* Deep-dive analyses by customer segment or career track
 
