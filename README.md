@@ -33,7 +33,7 @@ This repository contains a comprehensive report that analyzes:
 ## 📄 Files Included
 
 * `churn_churn_report.pdf`: The complete analysis report and recommendations
-* `data/`: Datasets used for exploratory analysis
+* `data`: Datasets used for exploratory analysis
 
 ## 📈 Tools & Techniques
 
